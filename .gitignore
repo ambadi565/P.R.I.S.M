@@ -23,7 +23,7 @@ backend/bin/
 backend/dist/
 *.exe
 *.test
-main
+
 
 # Hardhat & Solidity Artifacts
 contracts/artifacts/
